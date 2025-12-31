@@ -1,0 +1,28 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  
+  /* Kill the default white/black theme switching */
+  color-scheme: dark;
+  background-color: #000000;
+}
+
+/* IMPORTANT: Force the app to fill the screen */
+body {
+  margin: 0;
+  padding: 0;
+  width: 100vw;
+  height: 100vh;
+  min-width: 320px;
+  min-height: 100vh;
+  overflow: hidden; /* Prevent scrollbars */
+}
+
+#root {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  text-align: left; /* Fix the default center alignment */
+}
