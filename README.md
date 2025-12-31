@@ -33,4 +33,4 @@ TradePulse is a distributed financial intelligence platform designed to ingest, 
     ```
 
 ## 📸 Screenshots
-*(You can add screenshots here later)*
+*<img width="1275" height="622" alt="Screenshot 2025-12-31 151120" src="https://github.com/user-attachments/assets/ec337d8e-234a-4380-badd-3e701c0de57a" />*
